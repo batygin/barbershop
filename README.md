@@ -1,1 +1,1 @@
-<a href="http://id-granik.io/barbershop">Barbershop</a>
+<a href="http://id-granik.github.io/barbershop">Barbershop</a>
