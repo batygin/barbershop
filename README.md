@@ -1,2 +1,2 @@
-<h1>Интернет-магазин BORODINSKI</h1>
+<h2>Интернет-магазин BORODINSKI</h2>
 <a href="http://id-granik.github.io/barbershop">Демо сайта</a>
